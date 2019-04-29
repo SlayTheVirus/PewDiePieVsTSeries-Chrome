@@ -1,2 +1,2 @@
-# youtubesubcount-chrome
-A sub count for chrome
+# PewDiePieVsTSeries-Chrome
+https://chrome.google.com/webstore/detail/pewdiepie-vs-tseries/nkeoblakomgbmmjaocffedoaehpdgkla
